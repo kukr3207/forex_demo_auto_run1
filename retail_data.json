@@ -60767,5 +60767,72 @@
             "long": 51.87,
             "short": 48.13
         }
+    },
+    {
+        "AUDJPY": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 36.04,
+            "short": 63.96
+        },
+        "AUDUSD": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 51.23,
+            "short": 48.77
+        },
+        "EURAUD": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 38.31,
+            "short": 61.69
+        },
+        "EURJPY": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 25.88,
+            "short": 74.12
+        },
+        "EURUSD": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 29.67,
+            "short": 70.33
+        },
+        "GBPJPY": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 28.14,
+            "short": 71.86
+        },
+        "GBPUSD": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 27.32,
+            "short": 72.68
+        },
+        "NZDUSD": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 43.82,
+            "short": 56.18
+        },
+        "USDCAD": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 60.83,
+            "short": 39.17
+        },
+        "USDCHF": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 83.22,
+            "short": 16.78
+        },
+        "USDJPY": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 50.54,
+            "short": 49.46
+        },
+        "USDX": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 63.11,
+            "short": 36.89
+        },
+        "XAUUSD": {
+            "timestamp": "2023-07-08 22:20:43",
+            "long": 51.92,
+            "short": 48.08
+        }
     }
 ]
